@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/online-cab-portal.git](https://github.com/YOUR_USERNAME/online-cab-portal.git)
+   git clone https://github.com/samiyaasghar12-lgtm/Online_Cab_Portal.git
 
    Install Required Libraries:
    
@@ -63,3 +63,4 @@ README.md: Project documentation and setup guide.
 *1.png, *2.png, *3.png: Categorized car images for each provider.
 
 *_ss.png: Application screenshots for different brand themes.
+
